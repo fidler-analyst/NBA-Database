@@ -8,3 +8,6 @@
     #This API also does not include player names, which is where the player_info table comes in
     
 #By the end of this, you too can have a fairly inclusive data set to use for NBA analysis!
+
+
+#Note: password in connection to database is not real password. Change that information to yours to replicate my results
