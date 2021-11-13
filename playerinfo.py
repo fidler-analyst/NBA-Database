@@ -28,7 +28,7 @@ actives = actives.astype(str)
 #-----------------------------------------------------------------------------
  
 #upload to database ----------------------------------------------------------
-cnx = mysql.connector.connect(user='root', password='johnson28$',              #connect to database
+cnx = mysql.connector.connect(user='root', password='password',                #connect to database
                               host='127.0.0.1',
                               database='nba_data')
 cursor = cnx.cursor()
